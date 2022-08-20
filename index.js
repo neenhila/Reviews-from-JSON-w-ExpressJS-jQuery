@@ -9,9 +9,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 
 
 
-app.listen(8080, () => {
-    console.log("App is running on port 8080")
-});
+app.listen();
 
 app.get("/", (req, res) => {
     res.render("index")
