@@ -1,0 +1,32 @@
+{
+    "review_1": {
+        "name": "Akın Aktürk",
+        "stars": 5,
+        "review": "This was a perfect experience for me.",
+        "job": "Salesment Manager"
+    },
+    "review_2": {
+        "name": "Selim Yılmaz",
+        "stars": 4.5,
+        "review": "Working with this company took us to a new level.",
+        "job": "Full-Stack Developer"
+    },
+    "review_3": {
+        "name": "Yiğit Elmas",
+        "stars": 3,
+        "review": "I recommend you to use this company. Except communucation problems, my experience was good.",
+        "job": "Graphic Designer"
+    },
+    "review_4": {
+        "name": "Sinan Soydan",
+        "stars": 2.5,
+        "review": "There are better companies with much better facilities.",
+        "job": "HR Manager"
+    },
+    "review_5": {
+        "name": "Yeliz Demir",
+        "stars": 1,
+        "review": "I won't use this service again. Worst experience in my life.",
+        "job": "Junior Developer"
+    }
+}
